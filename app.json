@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "mobile2",
+    "name": "Hidrowater",
     "slug": "mobile2",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,14 @@
       "supportsTablet": true
     },
     "android": {
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json",
+      "package": "br.com.hypeti.hydrowater",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAJHXvS5acz-rZKY5Y0RyOFdTSMuXdAPII"
+        }
+      },
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"

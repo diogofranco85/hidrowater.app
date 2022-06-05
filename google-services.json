@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "189685979828",
+        "project_id": "hype-ti",
+        "storage_bucket": "hype-ti.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:189685979828:android:2c6a7f932b2536fbf655e1",
+                "android_client_info": {
+                    "package_name": "br.com.hypeti.hydrowater"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "189685979828-k3a1vtq34ktreuh93eicmr68p6ibr1bl.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCTHl9kCiVSZjLLuPXh2iEcNuPyXBE08Ng"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "189685979828-k3a1vtq34ktreuh93eicmr68p6ibr1bl.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
